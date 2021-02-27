@@ -1,5 +1,5 @@
-### caption
+# Graph coloring problem
 
-body
 
-[alexr github link](https://github.com/alexr007)
+Implemented backtracking algorithm 
+
